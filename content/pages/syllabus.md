@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the information on course meeting times,
+  handouts, readings, problem sets, tutorials, exams, design problems, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
